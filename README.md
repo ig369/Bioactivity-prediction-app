@@ -12,7 +12,8 @@ Secondly, we will login to the bioactivity environement
 ### Install prerequisite libraries
 Download requirements.txt file
 
-> wget https://raw.githubusercontent.com/SanaeEsskhayry/Bioactivity-prediction-app/master/requirements.txt
+
+>wget https://raw.githubusercontent.com/ig369/bioactivity-prediction-app/main/requirements.txt
 
 Pip install libraries
 
